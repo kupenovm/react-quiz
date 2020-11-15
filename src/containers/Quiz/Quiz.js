@@ -20,7 +20,7 @@ class Quiz extends Component {
     ]
   }
 
-  onAnswerClickHandler = (answerId) =>
+  // onAnswerClickHandler = (answerId) =>
 
   render() {
     return (
