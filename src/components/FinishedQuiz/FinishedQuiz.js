@@ -1,6 +1,6 @@
 import React from 'react'
 import classes from './FinishedQuiz.css'
-import Button from './../UI/Button/Button';
+import Button from '../UI/Button/Button'
 
 const FinishedQuiz = props => {
   const successCount = Object.keys(props.results).reduce((total, key) => {
